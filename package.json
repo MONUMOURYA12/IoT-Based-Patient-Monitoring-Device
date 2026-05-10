@@ -1,0 +1,31 @@
+{
+  "name": "major-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "set PORT=3000&& node server.js",
+    "backend": "set PORT=3000&& node server.js",
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "frontend": "vite --host 127.0.0.1 --port 5173",
+    "start": "set PORT=3000&& node server.js",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "axios": "^1.15.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "lucide-react": "^1.14.0",
+    "mqtt": "^5.15.1",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "recharts": "^3.8.1",
+    "vite": "^8.0.10"
+  }
+}

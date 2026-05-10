@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1777700164503,
+    "patientId": "Poo3",
+    "name": "Monu",
+    "age": "22",
+    "ward": "normal",
+    "sex": "male",
+    "assignedDoctor": "aditi",
+    "condition": "ent",
+    "createdAt": "2026-05-02T05:36:04.503Z"
+  },
+  {
+    "id": 1777675480537,
+    "patientId": "P002",
+    "name": "Ramu",
+    "age": "50",
+    "ward": "ICU-12",
+    "sex": "Male",
+    "assignedDoctor": "Dr Aditi Rao",
+    "condition": "critical",
+    "createdAt": "2026-05-01T22:44:40.537Z"
+  },
+  {
+    "id": 1,
+    "patientId": "P001",
+    "name": "Patient 1",
+    "age": "42",
+    "ward": "ICU-2",
+    "sex": "Male",
+    "assignedDoctor": "Dr Aditi Rao",
+    "condition": "Remote cardiac observation",
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  }
+]

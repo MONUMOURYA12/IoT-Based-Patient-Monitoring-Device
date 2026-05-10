@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aditi Rao",
+    "email": "aditi@example.com",
+    "role": "Cardiologist",
+    "room": "Cardiac Lab",
+    "shift": "Morning ICU",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohan Mehta",
+    "email": "rohan@example.com",
+    "role": "Pulmonologist",
+    "room": "Respiratory Unit",
+    "shift": "Evening Ward",
+    "passwordHash": "",
+    "createdAt": "2026-05-01T00:00:00.000Z"
+  }
+]
